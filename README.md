@@ -1,2 +1,2 @@
 # nero_
-Extension on NERO paper to evaluate robustness for computer vision models
+Extension on NERO paper to evaluate robustness of computer vision models
